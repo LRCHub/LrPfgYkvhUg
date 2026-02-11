@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Bad Dracula",
+  "base_artist": "Red Velvet",
+  "createdAt": "2026-02-11T06:15:38.659753Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Dracula",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/01_Bad_Dracula_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Dracula",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/02_Bad_Dracula_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bad Dracula",
+      "artist": "Red Velvet (레드벨벳)",
+      "has_synced": true,
+      "path": "select/03_Bad_Dracula_Red_Velvet_(레드벨벳).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bad Dracula",
+      "artist": "Red Velvet",
+      "has_synced": false,
+      "path": "select/pl_01_Bad_Dracula_Red_Velvet.txt"
+    }
+  ]
+}
